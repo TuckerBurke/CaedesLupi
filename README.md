@@ -9,10 +9,10 @@ This game was created in Unity Engine 2019.0.010f1 using C#. I created all of th
 [Post Mortem](Documentation/PostMortem.pptx)  
 [Citations](Documentation/Sources.docx) 
 ## Team
-Tucker Burke
-Kevin Dolan
-Nick Engell
-Joseph Hong
+Tucker Burke  
+Kevin Dolan  
+Nick Engell  
+Joseph Hong  
 Owen King
 ## Screenshots
 <img src="https://raw.githubusercontent.com/TuckerBurke/CaedesLupi/master/ScreenCaptures/WolfAttack.gif" width="900" height="507">
