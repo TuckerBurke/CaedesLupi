@@ -9,6 +9,7 @@ I created this game for my Interactive Media Development course at RIT. This was
 [Post Mortem](Documentation/PostMortem.pptx)  
 [Citations](Documentation/Sources.docx)  
 ## Screenshots
+<img src="https://raw.githubusercontent.com/TuckerBurke/CaedesLupi/master/ScreenCaptures/Enemy.gif" width="900" height="722">
 ![](ScreenCaptures/Enemy.gif =900x722)
 ![](ScreenCaptures/HumanForm.gif?raw=true)
 ![](ScreenCaptures/HumanRunAndJump.gif?raw=true)
