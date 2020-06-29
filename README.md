@@ -1,13 +1,19 @@
 # CaedesLupi
 ## About
-Inktober Asteroids is an Asteroids clone created with hand inked animated assets. Uses A, S, D, W for movement and SPACE to fire missles. Press ESC to return to main menu and quit. You can download the build [here](ProjectFiles/Asteroids/Builds/InktoberAsteroids.zip) if you would like to play.
+Caedes Lupi is a group project created for Game Design and Development II at RIT. Enemy logic was never fully implemented in game. Added some additional visual polish after course completion. Uses A and D for movement, SPACE to lunge attack, and tap left click to maul mounted enemy. Press ESC to return to main menu and quit. You can download the build [here](Build/CaedesLupiBuild.zip) if you would like to play.
 ## Documentation
-I created this game for my Interactive Media Development course at RIT. This was my first project assembled in Unity and was coded using C#. The sprites were hand drawn with ink on tracing papaer for Inktober. The purpose of the assignment was to utilize vector forces for controls and physics. I recently added a bit more juice and functionality to the prototype to flesh it out as a portfolio piece.
+This game was created in Unity Engine 2019.0.010f1 using C#. I created all of the visual art in Photoshop and animated using Esoteric Spine. This was my first time fully implementing Spine animations in Unity. I had to learn Unity's Animator state machine. I wound up having to create / refactor all of the player control logic in order to properly transition between all animated states. I came up with some creative solutions to transition between human and wolf forms and to properly carry an enemy when attacked. This was a great learning experience and came out pretty well for a small scale group project. I polished it up a little bit visually for portfolio use and would like to revisit this prototype in the future to flesh out enemy logic and additional levels.
 ## Navigation 
 [C# Scripts](Assets/Scripts)  
 [Download and Play](Build/CaedesLupiBuild.zip)  
 [Post Mortem](Documentation/PostMortem.pptx)  
-[Citations](Documentation/Sources.docx)  
+[Citations](Documentation/Sources.docx) 
+## Team
+Tucker Burke
+Kevin Dolan
+Nick Engell
+Joseph Hong
+Owen King
 ## Screenshots
 <img src="https://raw.githubusercontent.com/TuckerBurke/CaedesLupi/master/ScreenCaptures/WolfAttack.gif" width="900" height="507">
 <img src="https://raw.githubusercontent.com/TuckerBurke/CaedesLupi/master/ScreenCaptures/Transform.gif" width="900" height="640">
