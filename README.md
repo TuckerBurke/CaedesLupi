@@ -10,13 +10,12 @@ I created this game for my Interactive Media Development course at RIT. This was
 [Citations](Documentation/Sources.docx)  
 ## Screenshots
 <img src="https://raw.githubusercontent.com/TuckerBurke/CaedesLupi/master/ScreenCaptures/Enemy.gif" width="900" height="722">
-![](ScreenCaptures/Enemy.gif =900x722)
-![](ScreenCaptures/HumanForm.gif?raw=true)
-![](ScreenCaptures/HumanRunAndJump.gif?raw=true)
-![](ScreenCaptures/Transform.gif?raw=true)
-![](ScreenCaptures/WolfAttack.gif?raw=true)
-![](ScreenCaptures/WolfDeath.gif?raw=true)
-![](ScreenCaptures/WolfEye.gif?raw=true)
-![](ScreenCaptures/WolfForm.gif?raw=true)
-![](ScreenCaptures/WolfLeap.gif?raw=true)
-![](ScreenCaptures/WolfRun.gif?raw=true)
+<img src="https://raw.githubusercontent.com/TuckerBurke/CaedesLupi/master/ScreenCaptures/HumanForm.gif" width="900" height="900">
+<img src="https://raw.githubusercontent.com/TuckerBurke/CaedesLupi/master/ScreenCaptures/HumanRunAndJump.gif" width="900" height="641">
+<img src="https://raw.githubusercontent.com/TuckerBurke/CaedesLupi/master/ScreenCaptures/Transform.gif" width="900" height="640">
+<img src="https://raw.githubusercontent.com/TuckerBurke/CaedesLupi/master/ScreenCaptures/WolfAttack.gif" width="900" height="507">
+<img src="https://raw.githubusercontent.com/TuckerBurke/CaedesLupi/master/ScreenCaptures/WolfDeath.gif" width="900" height="900">
+<img src="https://raw.githubusercontent.com/TuckerBurke/CaedesLupi/master/ScreenCaptures/WolfEye.gif" width="900" height="900">
+<img src="https://raw.githubusercontent.com/TuckerBurke/CaedesLupi/master/ScreenCaptures/WolfForm.gif" width="900" height="900">
+<img src="https://raw.githubusercontent.com/TuckerBurke/CaedesLupi/master/ScreenCaptures/WolfLeap.gif" width="900" height="900">
+<img src="https://raw.githubusercontent.com/TuckerBurke/CaedesLupi/master/ScreenCaptures/WolfRun.gif" width="900" height="900">
