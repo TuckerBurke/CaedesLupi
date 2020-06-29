@@ -1,2 +1,21 @@
 # CaedesLupi
-Werewolf platformer group project created in Unity.
+## About
+Inktober Asteroids is an Asteroids clone created with hand inked animated assets. Uses A, S, D, W for movement and SPACE to fire missles. Press ESC to return to main menu and quit. You can download the build [here](ProjectFiles/Asteroids/Builds/InktoberAsteroids.zip) if you would like to play.
+## Documentation
+I created this game for my Interactive Media Development course at RIT. This was my first project assembled in Unity and was coded using C#. The sprites were hand drawn with ink on tracing papaer for Inktober. The purpose of the assignment was to utilize vector forces for controls and physics. I recently added a bit more juice and functionality to the prototype to flesh it out as a portfolio piece.
+## Navigation 
+[C# Scripts](Assets/Scripts)  
+[Download and Play](Build/CaedesLupiBuild.zip)  
+[Post Mortem](Documentation/PostMortem.pptx)  
+[Citations](Documentation/Sources.docx)  
+## Screenshots
+![](ScreenCaptures/Enemy.gif?raw=true)
+![](ScreenCaptures/HumanForm.gif?raw=true)
+![](ScreenCaptures/HumanRunAndJump.gif?raw=true)
+![](ScreenCaptures/Transform.gif?raw=true)
+![](ScreenCaptures/WolfAttack.gif?raw=true)
+![](ScreenCaptures/WolfDeath.gif?raw=true)
+![](ScreenCaptures/WolfEye.gif?raw=true)
+![](ScreenCaptures/WolfForm.gif?raw=true)
+![](ScreenCaptures/WolfLeap.gif?raw=true)
+![](ScreenCaptures/WolfRun.gif?raw=true)
