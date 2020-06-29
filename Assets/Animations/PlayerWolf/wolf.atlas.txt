@@ -1,0 +1,174 @@
+
+wolf.png
+size: 269,268
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Abdominal
+  rotate: false
+  xy: 145, 207
+  size: 97, 59
+  orig: 97, 59
+  offset: 0, 0
+  index: -1
+Breath
+  rotate: true
+  xy: 227, 6
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+Eyes
+  rotate: true
+  xy: 227, 65
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 69, 91
+  size: 70, 60
+  orig: 70, 60
+  offset: 0, 0
+  index: -1
+Human
+  rotate: false
+  xy: 2, 50
+  size: 65, 216
+  orig: 65, 216
+  offset: 0, 0
+  index: -1
+Lazer
+  rotate: true
+  xy: 167, 56
+  size: 70, 52
+  orig: 70, 52
+  offset: 0, 0
+  index: -1
+Left Ankle
+  rotate: true
+  xy: 62, 6
+  size: 42, 81
+  orig: 42, 81
+  offset: 0, 0
+  index: -1
+Left Arm
+  rotate: true
+  xy: 224, 117
+  size: 64, 41
+  orig: 64, 41
+  offset: 0, 0
+  index: -1
+Left Foot
+  rotate: true
+  xy: 141, 101
+  size: 25, 16
+  orig: 25, 16
+  offset: 0, 0
+  index: -1
+Left Leg
+  rotate: true
+  xy: 227, 36
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+Left Thigh
+  rotate: false
+  xy: 2, 2
+  size: 32, 46
+  orig: 32, 46
+  offset: 0, 0
+  index: -1
+Left Wrist
+  rotate: false
+  xy: 244, 183
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+Left hand
+  rotate: false
+  xy: 69, 187
+  size: 74, 79
+  orig: 74, 79
+  offset: 0, 0
+  index: -1
+Neck
+  rotate: false
+  xy: 145, 128
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+Right Ankle
+  rotate: false
+  xy: 244, 206
+  size: 22, 42
+  orig: 22, 42
+  offset: 0, 0
+  index: -1
+Right Arm
+  rotate: false
+  xy: 36, 5
+  size: 24, 43
+  orig: 24, 43
+  offset: 0, 0
+  index: -1
+Right Foot
+  rotate: false
+  xy: 244, 250
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+Right Hand
+  rotate: true
+  xy: 224, 183
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+Right Knee
+  rotate: true
+  xy: 145, 24
+  size: 25, 19
+  orig: 25, 19
+  offset: 0, 0
+  index: -1
+Right Shoulder
+  rotate: false
+  xy: 130, 51
+  size: 35, 38
+  orig: 35, 38
+  offset: 0, 0
+  index: -1
+Right Thigh
+  rotate: true
+  xy: 69, 50
+  size: 39, 59
+  orig: 39, 59
+  offset: 0, 0
+  index: -1
+Right Wirst
+  rotate: true
+  xy: 145, 11
+  size: 11, 18
+  orig: 11, 18
+  offset: 0, 0
+  index: -1
+Shoulders
+  rotate: true
+  xy: 167, 3
+  size: 51, 58
+  orig: 51, 58
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: false
+  xy: 69, 153
+  size: 73, 32
+  orig: 73, 32
+  offset: 0, 0
+  index: -1

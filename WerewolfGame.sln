@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "spine-unity", "spine-unity.csproj", "{E79ECF06-EE76-E25C-9283-E0A475EFB334}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{B7EC03B2-2799-C8E2-FCA5-60591D51C8D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "spine-unity-editor", "spine-unity-editor.csproj", "{ACC4B695-CD02-E3AB-40D5-36DA0DF335B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E79ECF06-EE76-E25C-9283-E0A475EFB334}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E79ECF06-EE76-E25C-9283-E0A475EFB334}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E79ECF06-EE76-E25C-9283-E0A475EFB334}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E79ECF06-EE76-E25C-9283-E0A475EFB334}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7EC03B2-2799-C8E2-FCA5-60591D51C8D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7EC03B2-2799-C8E2-FCA5-60591D51C8D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7EC03B2-2799-C8E2-FCA5-60591D51C8D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7EC03B2-2799-C8E2-FCA5-60591D51C8D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACC4B695-CD02-E3AB-40D5-36DA0DF335B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACC4B695-CD02-E3AB-40D5-36DA0DF335B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACC4B695-CD02-E3AB-40D5-36DA0DF335B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACC4B695-CD02-E3AB-40D5-36DA0DF335B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

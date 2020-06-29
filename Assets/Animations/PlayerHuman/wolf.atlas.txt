@@ -1,0 +1,153 @@
+
+wolf.png
+size: 363,142
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Abdominal
+  rotate: false
+  xy: 2, 2
+  size: 97, 59
+  orig: 97, 59
+  offset: 0, 0
+  index: -1
+Eyes
+  rotate: false
+  xy: 311, 103
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 101, 4
+  size: 70, 60
+  orig: 70, 60
+  offset: 0, 0
+  index: -1
+Left Ankle
+  rotate: true
+  xy: 162, 98
+  size: 42, 81
+  orig: 42, 81
+  offset: 0, 0
+  index: -1
+Left Arm
+  rotate: false
+  xy: 245, 99
+  size: 64, 41
+  orig: 64, 41
+  offset: 0, 0
+  index: -1
+Left Foot
+  rotate: false
+  xy: 278, 81
+  size: 25, 16
+  orig: 25, 16
+  offset: 0, 0
+  index: -1
+Left Leg
+  rotate: false
+  xy: 314, 7
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+Left Thigh
+  rotate: true
+  xy: 226, 6
+  size: 32, 46
+  orig: 32, 46
+  offset: 0, 0
+  index: -1
+Left Wrist
+  rotate: true
+  xy: 330, 84
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+Left hand
+  rotate: true
+  xy: 81, 66
+  size: 74, 79
+  orig: 74, 79
+  offset: 0, 0
+  index: -1
+Neck
+  rotate: false
+  xy: 2, 63
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+Right Ankle
+  rotate: true
+  xy: 207, 74
+  size: 22, 42
+  orig: 22, 42
+  offset: 0, 0
+  index: -1
+Right Arm
+  rotate: true
+  xy: 162, 72
+  size: 24, 43
+  orig: 24, 43
+  offset: 0, 0
+  index: -1
+Right Foot
+  rotate: false
+  xy: 305, 81
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+Right Hand
+  rotate: true
+  xy: 343, 16
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+Right Knee
+  rotate: false
+  xy: 251, 78
+  size: 25, 19
+  orig: 25, 19
+  offset: 0, 0
+  index: -1
+Right Shoulder
+  rotate: true
+  xy: 274, 3
+  size: 35, 38
+  orig: 35, 38
+  offset: 0, 0
+  index: -1
+Right Thigh
+  rotate: true
+  xy: 301, 40
+  size: 39, 59
+  orig: 39, 59
+  offset: 0, 0
+  index: -1
+Right Wirst
+  rotate: true
+  xy: 343, 3
+  size: 11, 18
+  orig: 11, 18
+  offset: 0, 0
+  index: -1
+Shoulders
+  rotate: false
+  xy: 173, 12
+  size: 51, 58
+  orig: 51, 58
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: false
+  xy: 226, 40
+  size: 73, 32
+  orig: 73, 32
+  offset: 0, 0
+  index: -1
