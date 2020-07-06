@@ -12,7 +12,7 @@ This game was created in Unity Engine 2019.0.010f1 using C#. I created all of th
 [Tucker Burke](https://www.linkedin.com/in/tuckerwolfeburke/)  
 Kevin Dolan  
 [Nick Engell](https://people.rit.edu/nwe4309/portfolio/)   
-Joseph Hong  
+[Joseph Hong](https://people.rit.edu/jsh7099/portfolio/)    
 Owen King
 ## Screenshots
 <img src="https://raw.githubusercontent.com/TuckerBurke/CaedesLupi/master/ScreenCaptures/WolfAttack.gif" width="900" height="507">
