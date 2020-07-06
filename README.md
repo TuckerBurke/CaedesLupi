@@ -9,9 +9,9 @@ This game was created in Unity Engine 2019.0.010f1 using C#. I created all of th
 [Post Mortem](Documentation/PostMortem.pptx)  
 [Citations](Documentation/Sources.docx) 
 ## Team
-Tucker Burke  
+[Tucker Burke](https://www.linkedin.com/in/tuckerwolfeburke/)  
 Kevin Dolan  
-Nick Engell  
+[Nick Engell](https://people.rit.edu/nwe4309/portfolio/) 
 Joseph Hong  
 Owen King
 ## Screenshots
